@@ -13,7 +13,7 @@ Les participants pourront se regrouper en équipes et choisir :
 
 ## Première édition des ReproHackathons
 
-La première édition des ReproHackathons se déroulera en mai 2017 à Gif-sur-Yvette.  
+La première édition des ReproHackathons se déroulera les 1er et 2 juin 2017 à Gif-sur-Yvette.  
 
 [Deux cas d’utilisation](hackathon_1.md) ont été sélectionnés
 * analyse de données RNA-Seq issues de patients atteints de mélanome uvéal
